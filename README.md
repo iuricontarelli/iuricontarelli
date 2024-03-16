@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **1905iuri@gmail.com**
 
+[Config VSCode](https://drive.google.com/file/d/1qA9bKpOya6MZ5WY5TLIkubfFt4gsP5l7/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iuricontarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuricontarelli" height="30" width="40" /></a>
@@ -19,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuricontarelli&show_icons=true&locale=en&layout=compact" alt="iuricontarelli" /></p>
 
-[Config VSCode](https://drive.google.com/file/d/1qA9bKpOya6MZ5WY5TLIkubfFt4gsP5l7/view?usp=sharing).
+
