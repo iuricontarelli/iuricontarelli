@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iuricontarelli&show_icons=true&locale=en" alt="iuricontarelli" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuricontarelli&show_icons=true&locale=en&layout=compact" alt="iuricontarelli" /></p>
+
+[Config VSCode](https://drive.google.com/file/d/1qA9bKpOya6MZ5WY5TLIkubfFt4gsP5l7/view?usp=sharing).
