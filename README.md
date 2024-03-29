@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **1905iuri@gmail.com**
 
-[Config VSCode](https://drive.google.com/file/d/1qA9bKpOya6MZ5WY5TLIkubfFt4gsP5l7/view?usp=sharing)
+[Config VSCode](https://drive.google.com/file/d/146osinpFr69ZrK9EQskg698vE-sDA-hL/view?usp=sharing)
+
+[Config VSCode](https://1drv.ms/u/c/7e8ae9eccc8152e1/EZJtroHzzIlKgQKFl_ufigEBpxK0i4Aw2jBf_b341Ws2Tg?e=9et08i)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
