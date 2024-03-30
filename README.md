@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Iuri Alves Contarelli</h1>
+<h1 align="center">Olá 👋, Eu sou Iuri Alves Contarelli</h1>
 <h3 align="center">Estudante de Analise e Desenvolvimento de Sistemas na faculdade Descomplica.</h3>
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Java, Git, GitHub, English**
+- 🌱 Eu atualmente estou estudando: **HTML, CSS, JavaScript, Angular, Git, GitHub e English**
 
-- 📫 How to reach me **1905iuri@gmail.com**
+- 📫 Meu E-mail: **1905iuri@gmail.com**
 
 [Config VSCode](https://drive.google.com/file/d/146osinpFr69ZrK9EQskg698vE-sDA-hL/view?usp=sharing)
 
 [Config VSCode](https://1drv.ms/u/c/7e8ae9eccc8152e1/EZJtroHzzIlKgQKFl_ufigEBpxK0i4Aw2jBf_b341Ws2Tg?e=9et08i)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Vamos se conectar no LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iuricontarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuricontarelli" height="30" width="40" /></a>
 </p>
